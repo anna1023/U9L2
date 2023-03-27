@@ -1,7 +1,7 @@
 public class Food {
     private String name;
     private int price;
-    private String texture;
+    private String texture;//
 
     public Food (String name, int price, String texture){
         this.name=name;

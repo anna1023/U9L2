@@ -3,7 +3,7 @@ public class Soup extends Food{
     private int price;
     private String texture;
     private String color;
-    private Boolean creamy;
+    private Boolean creamy;//
 
     public Soup(String name, int price, String texture,String color, Boolean creamy){
         super(name, price, texture);
