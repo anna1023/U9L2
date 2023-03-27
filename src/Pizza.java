@@ -3,7 +3,7 @@ public class Pizza extends Food{
     private int price;
     private String texture;
     private String shape;
-    private String topping;
+    private String topping; //
 
     public Pizza(String name, int price, String texture, String shape,String topping){
         super(name, price, texture);
